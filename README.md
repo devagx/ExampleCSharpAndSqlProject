@@ -1,3 +1,3 @@
 # ExampleCSharpAndSqlProject
 
-Example C# code and SQL I have written as part of building an activity time recording system.
+Subset of C# code and SQL that I have written as part of building an activity time recording system.
